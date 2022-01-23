@@ -1,3 +1,3 @@
 # projet_getsion_ECOLE
 
-[lire le tp](docs/tp grdtion d'ecole.pdf)
+[lire le tp](docs/tp gestion d'ecole.pdf)
