@@ -13,11 +13,9 @@ public:
 	Personne(Personne& p);
 
 
-	// ==================stters
 	void setName(std::string name);
 	void setAge(int age);
 	void setJoueur(bool j);
-	// =========================getters
 
 	std::string getName();
 	int getAge();
